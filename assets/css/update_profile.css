@@ -1,0 +1,55 @@
+/* update profile main div css start*/
+
+.update-profile-maindiv{
+     border-color: transparent;
+     height: 100%;
+     width: 100%;
+     padding-left: 5%;
+     background-color:#E8E8E8;
+     position: static;
+     margin-top:-5px;
+}
+#msform fieldset{
+     border:1px solid transparent;
+}
+#msform img{
+  height: 100%;
+  width: 100%;
+  border-radius: 50%;
+}
+#msform div.image{
+
+    
+    height: 30%;
+    width: 30%;
+    border-radius: 50%;
+    margin-left: 30%;
+}
+
+.labelstyle{
+     
+     font-size: 17px;
+     padding-left: 1%;
+     padding-right: 1%;
+     color: #061C30;
+
+}
+.inputstyle{
+     font-size: 17px;
+     margin-left:1%;
+     padding-left: 1%;
+     padding-right: 1%;
+     color: #061C30;
+     width: 70%;
+}
+
+.help-block{
+     font-size: 14px;
+     padding-left: 1%;
+     padding-right: 1%;
+     color: grey;
+}
+
+/* update profile main div css start*/
+
+/* */
